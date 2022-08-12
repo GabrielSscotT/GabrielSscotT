@@ -5,6 +5,7 @@
 Tech Stack:
 
 - Frontend: HTML5, CSS3, Jquery, React, Redux
+- Backend: SQL
 - Versionamento: Git
 - IDE: VS Code
 - Sistema Operacional: Linux
