@@ -5,7 +5,7 @@
 Tech Stack:
 
 - Frontend: HTML5, CSS3, Jquery, React, Redux
-- Backend: SQL
+- Backend: SQL, Node.js, Sequelize.js, Docker
 - Versionamento: Git
 - IDE: VS Code
 - Sistema Operacional: Linux
@@ -13,7 +13,7 @@ Tech Stack:
 
 Soft Skills:
 
-- Problem Solving, TeamWork, Communication 
+- Resolução de Problemas, Liderança, Comunicação, Raciocínio Lógico
 
 ![Gabriel github stats](https://github-readme-stats.vercel.app/api?username=GabrielSscotT&show_icons=true&theme=radical)
 
